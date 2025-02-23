@@ -1,0 +1,4 @@
+WebScraping/*
+!WebScraping/*.ipynb
+__pycache__/
+*.ipynb_checkpoints
