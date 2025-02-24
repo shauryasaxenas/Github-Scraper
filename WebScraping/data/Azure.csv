@@ -1,7 +1,7 @@
 username,repo_name,stars,repo_url
 microsoft,generative-ai-for-beginners,71300,https://github.com/microsoft/generative-ai-for-beginners
-bregman-arie,devops-exercises,68000,https://github.com/bregman-arie/devops-exercises
-pulumi,pulumi,22400,https://github.com/pulumi/pulumi
+bregman-arie,devops-exercises,68200,https://github.com/bregman-arie/devops-exercises
+pulumi,pulumi,22500,https://github.com/pulumi/pulumi
 danny-avila,LibreChat,22300,https://github.com/danny-avila/LibreChat
 getsops,sops,17800,https://github.com/getsops/sops
 ramitsurana,awesome-kubernetes,15200,https://github.com/ramitsurana/awesome-kubernetes

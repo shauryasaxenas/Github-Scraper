@@ -1,7 +1,7 @@
 username,repo_name,stars,repo_url
 amphp,amp,4300,https://github.com/amphp/amp
 danog,MadelineProto,3000,https://github.com/danog/MadelineProto
-amphp,parallel,806,https://github.com/amphp/parallel
+amphp,parallel,807,https://github.com/amphp/parallel
 unreal4u,telegram-api,792,https://github.com/unreal4u/telegram-api
 amphp,http-client,710,https://github.com/amphp/http-client
 amphp,byte-stream,373,https://github.com/amphp/byte-stream

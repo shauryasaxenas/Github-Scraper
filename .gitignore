@@ -1,4 +1,16 @@
 WebScraping/*
+
 !WebScraping/*.ipynb
+
+!WebScraping/bin/
+!WebScraping/data/
+!WebScraping/etc/
+!WebScraping/include/
+!WebScraping/lib/
+!WebScraping/share/
+
+!WebScraping/data/*
+
 __pycache__/
+
 *.ipynb_checkpoints

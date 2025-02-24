@@ -1,10 +1,10 @@
 username,repo_name,stars,repo_url
 Genymobile,scrcpy,118000,https://github.com/Genymobile/scrcpy
-neovim,neovim,86400,https://github.com/neovim/neovim
+neovim,neovim,86500,https://github.com/neovim/neovim
 obsproject,obs-studio,62400,https://github.com/obsproject/obs-studio
 fffaraz,awesome-cpp,62000,https://github.com/fffaraz/awesome-cpp
 git,git,53600,https://github.com/git/git
-FFmpeg,FFmpeg,47900,https://github.com/FFmpeg/FFmpeg
+FFmpeg,FFmpeg,48000,https://github.com/FFmpeg/FFmpeg
 serhii-londar,open-source-mac-os-apps,42900,https://github.com/serhii-londar/open-source-mac-os-apps
 vim,vim,37500,https://github.com/vim/vim
 curl,curl,36900,https://github.com/curl/curl
@@ -13,7 +13,7 @@ mpv-player,mpv,29800,https://github.com/mpv-player/mpv
 ossrs,srs,26400,https://github.com/ossrs/srs
 kovidgoyal,kitty,26400,https://github.com/kovidgoyal/kitty
 ggreer,the_silver_searcher,26400,https://github.com/ggreer/the_silver_searcher
-raysan5,raylib,25000,https://github.com/raysan5/raylib
+raysan5,raylib,25100,https://github.com/raysan5/raylib
 microsoft,vcpkg,24100,https://github.com/microsoft/vcpkg
 google,flatbuffers,23800,https://github.com/google/flatbuffers
 ruby,ruby,22400,https://github.com/ruby/ruby

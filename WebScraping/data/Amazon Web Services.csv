@@ -1,10 +1,10 @@
 username,repo_name,stars,repo_url
 ByteByteGoHq,system-design-101,68600,https://github.com/ByteByteGoHq/system-design-101
-bregman-arie,devops-exercises,68000,https://github.com/bregman-arie/devops-exercises
+bregman-arie,devops-exercises,68200,https://github.com/bregman-arie/devops-exercises
 localstack,localstack,57800,https://github.com/localstack/localstack
 serverless,serverless,46600,https://github.com/serverless/serverless
 donnemartin,data-science-ipython-notebooks,27900,https://github.com/donnemartin/data-science-ipython-notebooks
-pulumi,pulumi,22400,https://github.com/pulumi/pulumi
+pulumi,pulumi,22500,https://github.com/pulumi/pulumi
 danny-avila,LibreChat,22300,https://github.com/danny-avila/LibreChat
 getsops,sops,17800,https://github.com/getsops/sops
 kubernetes-sigs,kubespray,16600,https://github.com/kubernetes-sigs/kubespray

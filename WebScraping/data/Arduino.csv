@@ -1,7 +1,7 @@
 username,repo_name,stars,repo_url
 arendst,Tasmota,22900,https://github.com/arendst/Tasmota
 MarlinFirmware,Marlin,16500,https://github.com/MarlinFirmware/Marlin
-tinygo-org,tinygo,15800,https://github.com/tinygo-org/tinygo
+tinygo-org,tinygo,15900,https://github.com/tinygo-org/tinygo
 espressif,arduino-esp32,14300,https://github.com/espressif/arduino-esp32
 arduino,Arduino,14300,https://github.com/arduino/Arduino
 SpacehuhnTech,esp8266_deauther,13800,https://github.com/SpacehuhnTech/esp8266_deauther
@@ -9,7 +9,7 @@ rwaldron,johnny-five,13300,https://github.com/rwaldron/johnny-five
 gurugio,lowlevelprogramming-university,11600,https://github.com/gurugio/lowlevelprogramming-university
 hybridgroup,gobot,9100,https://github.com/hybridgroup/gobot
 platformio,platformio-core,8100,https://github.com/platformio/platformio-core
-justcallmekoko,ESP32Marauder,6900,https://github.com/justcallmekoko/ESP32Marauder
+justcallmekoko,ESP32Marauder,7000,https://github.com/justcallmekoko/ESP32Marauder
 bblanchon,ArduinoJson,6800,https://github.com/bblanchon/ArduinoJson
 tzapu,WiFiManager,6800,https://github.com/tzapu/WiFiManager
 olikraus,u8g2,5400,https://github.com/olikraus/u8g2
