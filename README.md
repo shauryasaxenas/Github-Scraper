@@ -35,4 +35,7 @@ Github-Scraper is a Python-based tool that scrapes the GitHub topics page to ext
    ```bash
    jupyter notebook
    ```
-5. Open the latest .ipynb notebook version (e.g. github_scraper_v3.ipynb) and run the cells sequentially. 
+5. Open the latest .ipynb notebook version (e.g. github_scraper_v3.ipynb) and run the cells sequentially.
+
+## 📂 Usage
+Run the scraper by executing the Jupyter Notebook cells. The script will scrape the top repositories from GitHub topics and save the data into CSV files.
