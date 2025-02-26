@@ -9,6 +9,30 @@ Github-Scraper is a Python-based tool that scrapes the GitHub topics page to ext
 - Utilizes popular Python libraries such as BeautifulSoup, Selenium, Pandas, and Requests.
 
 ## 🛠️ Installation
-1. Clone the repository:
+### Prerequisites
+- macOS (Tested on Mac)
+- Python 3.13 installed
+- Jupyter Notebook installed
+
+### Setup Instructions
+1. Clone this repository:
    ```bash
    git clone https://github.com/shauryasaxenas/Github-Scraper.git
+   cd Github-Scraper
+   ```
+2. Create and activate a virtual environment:
+  ```bash
+   python3 -m venv WebScraping
+   ```
+3. Install dependencies:
+   ```bash
+   pip install requests --upgrade --quiet
+   pip install beautifulsoup4 --upgrade --quiet
+   pip install pandas --upgrade --quiet
+   pip install selenium --upgrade --quiet
+   ```
+4. Launch Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
+5. Open the latest .ipynb notebook version (e.g. github_scraper_v3.ipynb) and run the cells sequentially. 
