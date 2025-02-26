@@ -21,7 +21,7 @@ Github-Scraper is a Python-based tool that scrapes the GitHub topics page to ext
    cd Github-Scraper
    ```
 2. Create and activate a virtual environment:
-  ```bash
+   ```bash
    python3 -m venv WebScraping
    ```
 3. Install dependencies:
