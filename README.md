@@ -39,3 +39,21 @@ Github-Scraper is a Python-based tool that scrapes the GitHub topics page to ext
 
 ## 📂 Usage
 Run the scraper by executing the Jupyter Notebook cells. The script will scrape the top repositories from GitHub topics and save the data into CSV files.
+
+## 📊 Output
+- Each GitHub topic will have its own CSV file.
+- All CSV files will be stored in a folder named **data**
+- Each CSV file will contain the following columns:
+   - Repository Name
+   - Stars
+   - Forks
+   - Number of Contributors
+
+## 📦 Dependencies 
+- **Requests** for making HTTP requests
+- **BeautifulSoup** for parsing HTML
+- **Pandas** for data manipulation
+- **Selenium** for dynamic page interactions
+
+## 💬 Contact
+For any issues or questions, feel free to open an issue on the repository.
