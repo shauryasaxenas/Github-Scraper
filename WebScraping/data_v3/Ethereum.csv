@@ -1,7 +1,7 @@
 username,repo_name,stars,repo_url
 ethereum,go-ethereum,48500,https://github.com/ethereum/go-ethereum
 ccxt,ccxt,34800,https://github.com/ccxt/ccxt
-unionlabs,union,31900,https://github.com/unionlabs/union
+unionlabs,union,32000,https://github.com/unionlabs/union
 shardeum,shardeum,31800,https://github.com/shardeum/shardeum
 OpenZeppelin,openzeppelin-contracts,25500,https://github.com/OpenZeppelin/openzeppelin-contracts
 ethereum,solidity,24000,https://github.com/ethereum/solidity
