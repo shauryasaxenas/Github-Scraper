@@ -42,7 +42,7 @@ Run the scraper by executing the Jupyter Notebook cells. The script will scrape 
 
 ## 📊 Output
 - Each GitHub topic will have its own CSV file.
-- All CSV files will be stored in a folder named **data**
+- All CSV files will be stored in a folder named **data_v[x]**, x being the version.
 - Each CSV file will contain the following columns:
    - Repository Name
    - Stars
